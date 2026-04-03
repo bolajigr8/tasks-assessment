@@ -57,7 +57,7 @@ src/
 ### Steps
 
 ```bash
-cd assessment/client
+cd tasks-assessment/client
 npm install
 ```
 

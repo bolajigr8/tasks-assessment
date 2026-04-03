@@ -37,7 +37,7 @@ You can run the two apps independently with npm, or together with Docker.
 #### 1. Set up the server
 
 ```bash
-cd assessment/server
+cd tasks-assessment/server
 npm install
 ```
 
@@ -67,7 +67,7 @@ Interactive Swagger docs are at **http://localhost:5000/api-docs**.
 Open a second terminal:
 
 ```bash
-cd assessment/client
+cd tasks-assessment/client
 npm install
 ```
 

@@ -64,7 +64,7 @@ server/
 ### Steps
 
 ```bash
-cd assessment/server
+cd tasks-assessment/server
 npm install
 ```
 
